@@ -166,8 +166,8 @@ A drone airspace management platform featuring real-time traffic monitoring, geo
 
 - **GitHub:** [@ajaytilak341](https://github.com/ajaytilak341)
 - **Email:** [ajaytilak6174@gmail.com](mailto:ajaytilak6174@gmail.com)
-- **LinkedIn:** Add your LinkedIn profile URL here.
-- **Portfolio:** Add your deployed Vercel URL here.
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ajay-tilak-v-668837322/)
+- **Portfolio:** [myPortfolio](https://portfolio143-six.vercel.app/)
 
 ---
 
